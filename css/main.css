@@ -1,0 +1,13 @@
+/* top header */
+#top-header { background-color: #005a7c; color: white;font-weight: 600; font-size: 12px; padding: 2px;}
+#et-info, #et-info-email { color: white;}
+#et-info-email:hover { color: rgb(219, 210, 210);}
+
+/* navbar */
+.nav-link , .navbar-brand{ color: #005a7c!important; cursor: pointer;}
+.nav-link{ margin-right: 1em !important; font-weight: bold;font-style: normal;}
+.nav-link:hover{ color: #269ac4!important }
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
+.navbar { border-bottom: 3px solid #54b2bd; top: 30px; padding: 0 150px 0 150px;}
+.navbar-toggler-icon { display: inline-block;}
